@@ -1,19 +1,19 @@
-# ChimpTok
+# TrashTok
 
-&gt; A satirical educational experiment exploring recommendation algorithms and attention mechanics through monkey videos.
+&gt; A satirical educational experiment exploring recommendation algorithms and attention mechanics through chaotic animal content.
 
 ## What this is
 
-ChimpTok is a non-commercial, full-stack portfolio project built to understand how modern short-form video platforms work under the hood. It uses exclusively monkey, ape, and chimpanzee videos to demonstrate:
+TrashTok is a non-commercial, full-stack portfolio project built to understand how modern short-form video platforms work under the hood. It uses an eclectic, deliberately absurd mix of animal content — donkeys, raccoons, goats, monkeys, and more — to demonstrate:
 
 - Personalized feed algorithms (CLIP embeddings + vector similarity)
 - HLS video streaming and transcoding (FFmpeg)
 - Real-time analytics and gamification mechanics
 - Progressive Web App architecture (React, FastAPI, SQLite)
 
-## Why monkeys?
+## Why "trash" animals?
 
-The project uses animal content as a satirical lens to critically examine social media addiction patterns, "brain rot" mechanics, and attention economies — without exposing real user data or harmful content.
+The project embraces chaotic, "low-tier" animal content as a satirical lens to critically examine social media addiction patterns, "brain rot" mechanics, and attention economies. The deliberate absurdity underscores how algorithmic feeds can make anything addictive — regardless of actual value.
 
 ## Tech Stack
 
